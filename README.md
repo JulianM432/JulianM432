@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Julián 👋</h1>
 <h3 align="center">Fullstack developer · Growing into backend & system design</h3>
 
 <p align="center">
@@ -43,7 +42,3 @@ Remote **Fullstack Developer** at Dualthink (Spain), Apr 2025 – Jul 2026. Clie
 ## Currently open to
 
 Fullstack roles on a team where I can keep growing technically.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulianM432&label=Profile+views&color=0e75b6&style=flat" />
-</p>
