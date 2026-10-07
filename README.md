@@ -18,7 +18,7 @@ I build web and mobile products end to end: Node/Express services, MongoDB data 
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vite,nodejs,express,mongodb,postgres,nginx,linux,git" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,nodejs,express,react,vite,nextjs,ts,js" />
 </p>
 
 | Area | What I use |
